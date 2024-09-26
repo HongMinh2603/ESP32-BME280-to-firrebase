@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "bme280.h": "c",
+        "cjson.h": "c"
+    }
+}
